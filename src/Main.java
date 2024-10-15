@@ -7,9 +7,9 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         printResult(solution(getDataFromFile("notes.txt")));
-    }
+    }*/
 
 
     public static ArrayList<Integer> getDataFromFile(String fileName) {
